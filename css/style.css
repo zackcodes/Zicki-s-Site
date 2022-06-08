@@ -1,0 +1,54 @@
+body{
+	font-size: 20px;
+	line-height: 40px;
+	padding-left: 200px  ;
+	padding-right: 200px;
+	background-color:#566573 ;
+	font-family: Helvetica, ;
+}
+
+
+
+li{
+color: white;
+}
+
+
+header{
+	background-color: #34495E ;
+	padding-top: 50xp;
+	padding-bottom: 50xp;
+	text-align: center;
+}
+header img{
+	align-content: center;
+	width: 500px;
+	border-radius: 250px;
+}
+
+h1{
+	color: white;
+	font-family: 'Bebas Neue', cursive;
+	font-size: 80px;
+
+}
+
+
+
+h2{
+	color: white;
+	text-align: center;
+}
+p{
+	color: white;
+}
+footer{
+	background-color: #808B96 ;
+}
+a{
+  color:#34495E ;
+}
+a:hover{
+	background-color: #34495E;
+	color:  white;
+}
