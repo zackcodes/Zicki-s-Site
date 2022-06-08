@@ -52,3 +52,6 @@ a:hover{
 	background-color: #34495E;
 	color:  white;
 }
+a img{
+	width: 150px;
+}
